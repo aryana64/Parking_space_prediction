@@ -25,5 +25,6 @@ Logistic regression, gradient boosting, SVM, decision trees
 RNN, Transformers для анализа временных последовательностей
 После генерации новых признаков было обнаружено, что они слабо коррелируют между собой. По этой причине выбор модели пал на Transformer, поскольку они способны работать с разными типами данных.
 Решение рассчитано для различных OS.
-В файле model.pt расположена сама модель, ссылка на Яндекс.Диск
-https://disk.yandex.com/d/vHhTBW7tBtoEcA
+В файле model.pt расположена сама модель, ссылка на Яндекс.Диск  
+
+https://disk.yandex.com/d/vHhTBW7tBtoEcA  
