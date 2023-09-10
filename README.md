@@ -1,4 +1,5 @@
 # Parking_space_prediction
+## Модель находится на яндекс диске https://disk.yandex.com/d/vHhTBW7tBtoEcA
 ## Всероссийский хакатон “Цифровой прорыв” в Нижнем Новгороде, 08.09-10.09.2023
 ![image](https://github.com/aryana64/Parking_space_prediction/assets/112254501/f5ab509c-dfb4-4fd8-9e85-18cb53f169b4)
 
